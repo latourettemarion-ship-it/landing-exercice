@@ -1,0 +1,36 @@
+.banner {
+  background-image:
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.2)),
+    url('../../Images/banner.klarna.png');
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 180px 0;     
+  text-align: center;    
+  color: white;
+}
+
+
+.banner h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.banner h2 {
+  font-size: 28px;
+  font-weight: lighter;
+  opacity: 0.9;
+  margin-bottom: 40px;
+}
+
+.banner .btn-blue {
+  background-color: #fea8cc;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
